@@ -1,4 +1,24 @@
 {
+  
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killjoy1994/DragAndDrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killjoy1994/DragAndDrop/issues"
+  },
+  "homepage": "https://github.com/killjoy1994/DragAndDrop#readme",
+  "description": "",
+
   "devDependencies": {
     "typescript": "^4.9.3"
   },
